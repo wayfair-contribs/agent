@@ -23,7 +23,7 @@ require (
 	github.com/qri-io/jsonschema v0.0.0-20180607150648-d0d3b10ec792
 	github.com/rjeczalik/interfaces v0.1.1
 	github.com/sergi/go-diff v1.0.0 // indirect
-	github.com/stretchr/testify v1.8.0
+	github.com/stretchr/testify v1.8.1
 	github.com/urfave/cli v1.22.9
 	golang.org/x/crypto v0.0.0-20220214200702-86341886e292
 	golang.org/x/oauth2 v0.0.0-20220622183110-fd043fe589d2
@@ -37,13 +37,13 @@ require (
 	github.com/buildkite/roko v1.0.0
 	go.opentelemetry.io/contrib/propagators/aws v1.8.0
 	go.opentelemetry.io/contrib/propagators/b3 v1.8.0
-	go.opentelemetry.io/contrib/propagators/jaeger v1.8.0
+	go.opentelemetry.io/contrib/propagators/jaeger v1.12.0
 	go.opentelemetry.io/contrib/propagators/ot v1.8.0
-	go.opentelemetry.io/otel v1.9.0
+	go.opentelemetry.io/otel v1.11.2
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.8.0
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.8.0
 	go.opentelemetry.io/otel/sdk v1.8.0
-	go.opentelemetry.io/otel/trace v1.9.0
+	go.opentelemetry.io/otel/trace v1.11.2
 	golang.org/x/exp v0.0.0-20220428152302-39d4317da171
 )
 
